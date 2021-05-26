@@ -1,4 +1,0 @@
-Hello
-Hello again
-Delete me
-hello test

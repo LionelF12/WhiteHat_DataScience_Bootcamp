@@ -1,0 +1,13 @@
+8 Version Control Best Practices: perforce.com/blog/vcs/8-version-control-best-Practices
+
+1) Commit changes atomically
+2) Commmit files with a single purpose - not as a backup
+3) Write good commit messages
+4) Don't break builds
+5) Do reviews before committing to a shared repository 
+6) Make sure every commit is traceable 
+7) Follow branching best Practices
+8) Protect your Assets
+
+//
+Version Control Tips: homes.cs.washington.edu/~mernst/advice/version-control.html
